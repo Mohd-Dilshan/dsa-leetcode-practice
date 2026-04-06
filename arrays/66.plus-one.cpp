@@ -11,9 +11,10 @@ using namespace std;
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
+
         int n = digits.size();
 
-        int i = n-1; //Start from the LSB likr usually do in addition
+        int i = n-1; //Start from the LSB like usually do in addition
 
         while (i >= 0) {
             if (digits[i] < 9) {
@@ -21,7 +22,6 @@ public:
                 return digits;
             } 
             //else we did get 9, we need to set it to 0 and continue to the next digit
-
             digits[i] = 0; // 9+1 = 10, so we set the current digit to 0 and move to the next digit
             i--;
         }
