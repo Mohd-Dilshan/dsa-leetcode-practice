@@ -47,7 +47,7 @@ public:
                 }
                 mp[s[i]]++; // Increase the frequency in the map as we are moving the left pointer
 
-                if(mp[s[j]] > 0) {// If the character at the left pointer is in t, increase the required count
+                if(mp[s[i]] > 0) {// If the character at the left pointer is in t, increase the required count
                     requiredCount++;
                 }
                 i++; // Move the left pointer to shrink the window
