@@ -10,7 +10,7 @@ using namespace std;
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
-        
+          int n = temperatures.size();
     }
 };
 // @lc code=end
