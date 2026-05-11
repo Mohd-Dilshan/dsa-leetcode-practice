@@ -10,6 +10,8 @@
 using namespace std;
 class Solution {
 public:
+    // OPTIMAL APPROACH
+    // SCAPE COMP: O(N)
     vector<int> nextGreaterElements(vector<int>& nums) {
         int n = nums.size();
         vector<int>ans(n, -1);
