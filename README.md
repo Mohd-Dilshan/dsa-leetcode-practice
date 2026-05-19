@@ -114,5 +114,6 @@ Problems are taken from **LeetCode**.
 ---
 
 ## 🔗 Author
+**Mohd Dilshan**
 
 Maintained by me as part of my **DSA learning journey**.
