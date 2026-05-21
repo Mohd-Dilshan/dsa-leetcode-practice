@@ -5,8 +5,6 @@
  */
 
 // @lc code=start
-#include<vector>
-using namespace std;
 class Solution {
 public:
     vector<int> countBits(int n) {
