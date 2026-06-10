@@ -18,7 +18,6 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        
     }
 };
 // @lc code=end
