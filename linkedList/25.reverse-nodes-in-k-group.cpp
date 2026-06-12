@@ -18,7 +18,32 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        
+        ListNode* temp = head;
+        int count = 0;
+
+        // check k node exist or not
+        while(count < k) {
+            if(temp == nullptr) {
+                return head;
+            }
+            temp = temp->next;
+            count++;
+        }
+        //recursive call 
+        ListNode* prevNode = reverseKGroup(temp, k);
+
+        // reverse current group
+        temp = head; count = 0;
+        while(count < k ) {
+            ListNode* next = temp -> next;
+            temp->next = prevNode;
+
+            prevNode = temp;
+            temp = next;
+
+            count++;
+        }
+        return prevNode;
     }
 };
 // @lc code=end
