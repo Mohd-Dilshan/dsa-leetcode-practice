@@ -5,11 +5,13 @@
  */
 
 // @lc code=start
+
+#include <vector>
+using namespoace std;
 class Solution {
 public:
-    int numberOfGoodPaths(vector<int>& vals, vector<vector<int>>& edges) {
-        
-    }
+    
+    
 };
 // @lc code=end
 
