@@ -19,21 +19,21 @@
 //Approach-1 (Using DFS)
 //T.C : O(n)
 //S.C : O(1)
-// class Solution {
-// public:
-//     bool isSameTree(TreeNode* p, TreeNode* q) {
-//         if(p == nullptr && q == nullptr)
-//             return true;
+class Solution {
+public:
+    bool isSameTree(TreeNode* p, TreeNode* q) {
+        if(p == nullptr && q == nullptr)
+            return true;
         
-//         if(p == nullptr || q == nullptr)
-//             return false;
+        if(p == nullptr || q == nullptr)
+            return false;
         
-//         if(p->val != q->val)
-//             return false;
+        if(p->val != q->val)
+            return false;
         
-//         return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
-//     }
-// };
+        return isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
+    }
+};
 
 //Approach-2 (Using BFS)
 //T.C : O(n)
