@@ -8,7 +8,10 @@
 class Solution {
 public:
     int rangeBitwiseAnd(int left, int right) {
-        
+        while(left < right) {
+            right = left & (right-1);
+        }
+        return right;
     }
 };
 // @lc code=end
