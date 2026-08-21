@@ -143,4 +143,8 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
