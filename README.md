@@ -167,6 +167,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0258-add-digits) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -183,4 +184,5 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0008-string-to-integer-atoi) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
