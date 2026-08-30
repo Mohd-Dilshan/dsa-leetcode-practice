@@ -126,6 +126,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0089-gray-code](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2235-add-two-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2235-add-two-integers) |
@@ -139,6 +140,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0326-power-of-three) |
 ## Array
 |  |
 | ------- |
