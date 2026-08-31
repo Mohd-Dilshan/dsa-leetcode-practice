@@ -7,7 +7,5 @@ class Solution {
             n = n/4;
         }
         return n==1;
-
-        // return n>0 && 1073741824 % n ==0;
     }
 }
