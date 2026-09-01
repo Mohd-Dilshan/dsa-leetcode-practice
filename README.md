@@ -147,6 +147,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -190,4 +191,8 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
