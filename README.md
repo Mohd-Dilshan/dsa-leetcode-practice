@@ -149,6 +149,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0001-two-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -156,6 +157,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -202,6 +204,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -209,4 +212,12 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
