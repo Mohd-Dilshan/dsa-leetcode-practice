@@ -205,6 +205,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0125-valid-palindrome](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
@@ -212,6 +213,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0001-two-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -233,4 +235,12 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
