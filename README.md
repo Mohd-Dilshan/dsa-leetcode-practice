@@ -162,6 +162,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -200,12 +201,14 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0344-reverse-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
