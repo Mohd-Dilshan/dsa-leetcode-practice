@@ -1,3 +1,4 @@
+//JAVA
 class Solution {
     public static int sum(int num){
         int s = 0;
