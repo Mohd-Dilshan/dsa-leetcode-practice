@@ -11,3 +11,24 @@ class Solution {
         }
     }
 }
+
+//approach 2 using recursion 
+class Solution {
+    public static void f(char[] s, int idx) {
+        int left = idx;
+        int right = s.length - 1 - idx;
+       
+        if (left >= right) return;
+   
+        char temp = s[left];
+        s[left] = s[right];
+        s[right] = temp;
+        
+        f(s, idx + 1);
+    }
+    
+    public void reverseString(char[] s) {
+        f(s, 0);
+    }
+}
+
