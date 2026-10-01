@@ -20,3 +20,31 @@ public class Solution {
         solve(nums, idx + 1, temp);
     }
 } 
+
+
+//
+class Solution {
+    public static void f(int []nums ,List<List<Integer>>ans,List<Integer>current,int idx){
+        if(idx>=nums.length){
+            ans.add(new ArrayList<>(current));
+            return;
+        }
+
+        current.add(nums[idx]);
+
+        f(nums,ans,current,idx+1);
+        current.remove(current.size()-1);
+        f(nums,ans,current,idx+1);
+
+    }
+  
+    public List<List<Integer>> subsets(int[] nums) {
+      List<List<Integer>>ans = new ArrayList<>();
+      List<Integer>current= new ArrayList<>();
+      int idx= 0;
+
+      f(nums,ans,current,idx);
+      return ans;
+
+    }
+}
