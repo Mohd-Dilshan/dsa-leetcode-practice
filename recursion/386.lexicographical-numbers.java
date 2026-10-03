@@ -1,5 +1,5 @@
 
-
+//T.C=O(n) and S.C=O(logn)
 
 class Solution {
     
