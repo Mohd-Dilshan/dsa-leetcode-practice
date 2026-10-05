@@ -1,3 +1,5 @@
+//T.C=O(n!*n)
+//S.C=O(n)
 class Solution {
     private int n;
     private List<List<Integer>> result;
