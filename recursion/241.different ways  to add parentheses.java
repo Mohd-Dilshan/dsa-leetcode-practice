@@ -1,3 +1,4 @@
+//T.C=O(n*2^n)
 class Solution {
 
     // Helper function to solve the expression in different ways
