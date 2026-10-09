@@ -1,3 +1,6 @@
+//Time complexity: O(n)
+//Space complexity: O(n)
+
 class Solution {
     public int kthGrammar(int n, int k) {
         if(n == 1 && k == 1) {
