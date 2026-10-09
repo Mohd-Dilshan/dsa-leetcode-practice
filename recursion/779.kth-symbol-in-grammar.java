@@ -38,3 +38,12 @@ class Solution {
     }
 }
 
+
+//Time complexity: O(1)
+//Space complexity: O(1)
+// without recursion, constant time parity approach 
+
+public int kthGrammar(int n, int k) {
+    return Integer.bitCount(k - 1) % 2;
+}
+ 
