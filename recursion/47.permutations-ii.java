@@ -50,6 +50,8 @@ class Solution {
 
 
 //Approach 2
+//T.C=O(n!*n)
+
 class Solution {
     private List<List<Integer>> result;
     private int n;
