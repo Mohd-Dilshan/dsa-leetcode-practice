@@ -246,4 +246,16 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0383-ransom-note](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
