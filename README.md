@@ -211,6 +211,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
