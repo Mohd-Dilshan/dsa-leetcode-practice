@@ -159,6 +159,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -220,6 +221,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0383-ransom-note](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,4 +267,12 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
