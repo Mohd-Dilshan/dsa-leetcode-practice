@@ -255,6 +255,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -263,6 +264,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0100-same-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
@@ -280,4 +282,12 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0206-reverse-linked-list) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
