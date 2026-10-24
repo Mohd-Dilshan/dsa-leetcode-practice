@@ -158,6 +158,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0136-single-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -237,6 +238,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0367-valid-perfect-square) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Quicksort
 |  |
 | ------- |
