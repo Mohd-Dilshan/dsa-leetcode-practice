@@ -160,6 +160,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -239,6 +240,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -313,4 +315,8 @@ Maintained by me as part of my **DSA learning journey**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0112-path-sum) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
