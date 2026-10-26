@@ -233,6 +233,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0125-valid-palindrome](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -299,6 +300,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
