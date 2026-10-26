@@ -145,6 +145,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0326-power-of-three) |
@@ -300,6 +301,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0237-delete-node-in-a-linked-list) |
