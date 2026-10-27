@@ -157,6 +157,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0053-maximum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -244,6 +245,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
