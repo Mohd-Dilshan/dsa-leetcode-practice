@@ -35,12 +35,16 @@ public void solve(int row , int n , char[][] board , List<List<String>>res){
         }
     }
 }
-
     public List<List<String>> solveNQueens(int n) {
         List<List<String>>res = new ArrayList<>();
- char[][] board = new char[n][n];
-     for(int i=0;i<n;i++){
-        Arrays.fill(board[i],'.');
+        char[][] board = new char[n][n];
+    //  for(int i=0;i<n;i++){
+    //     Arrays.fill(board[i],'.');
+    //  }
+    for(int i=0;i<n;i++){
+        for(int j=0;j<n;j++){
+            board[i][j]='.';
+        }
      }
 
      solve(0,n,board,res);
