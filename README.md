@@ -154,6 +154,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0136-single-number) |
@@ -179,6 +180,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0089-gray-code) |
 ## Divide and Conquer
@@ -339,4 +341,8 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0141-linked-list-cycle) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
