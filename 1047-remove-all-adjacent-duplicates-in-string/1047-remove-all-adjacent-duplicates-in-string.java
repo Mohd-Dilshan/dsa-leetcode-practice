@@ -7,17 +7,11 @@ class Solution {
         for(int i = 0; i<s.length(); i++) {
             char ch = s.charAt(i);
 
-            if(stack.isEmpty()){
+            if (!stack.isEmpty() && stack.peek() == ch) {
+                stack.pop();
+            } else {
                 stack.push(ch);
             }
-            else {
-                if(stack.peek()==ch){
-                    stack.pop();
-                } else {
-                    stack.push(ch);
-                }
-            }
-
         }
         for (char c : stack) {
             result.append(c);
