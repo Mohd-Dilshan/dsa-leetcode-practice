@@ -162,6 +162,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -236,6 +237,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0383-ransom-note](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
@@ -321,6 +323,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Depth-First Search
 |  |
@@ -359,4 +362,12 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
