@@ -169,6 +169,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -307,6 +308,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
