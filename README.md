@@ -142,6 +142,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0231-power-of-two](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 ## Recursion
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -201,6 +203,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Number Theory
@@ -252,6 +255,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -307,6 +311,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Indexed Tree
