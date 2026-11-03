@@ -296,6 +296,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -313,6 +314,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Matrix
 |  |
@@ -351,6 +353,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -394,4 +397,8 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
