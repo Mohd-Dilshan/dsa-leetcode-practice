@@ -162,6 +162,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0162-find-peak-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
@@ -179,6 +180,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0075-sort-colors](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
@@ -195,6 +197,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -408,9 +411,14 @@ Maintained by me as part of my **DSA learning journey**.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
