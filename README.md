@@ -173,6 +173,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
+| [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -413,6 +414,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
 ## Data Stream
 |  |
 | ------- |
