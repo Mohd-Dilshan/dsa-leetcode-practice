@@ -172,6 +172,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -288,6 +289,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 ## Tree
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Maintained by me as part of my **DSA learning journey**.
 | ------- |
 | [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 | [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
 ## Binary Indexed Tree
 |  |
@@ -361,6 +364,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0112-path-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,6 +374,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0112-path-sum) |
+| [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 ## Ternary Search
 |  |
 | ------- |
@@ -423,4 +428,8 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
