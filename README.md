@@ -432,4 +432,8 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
