@@ -134,6 +134,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2235-add-two-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2843-count-symmetric-integers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
@@ -225,6 +226,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
 | ------- |
