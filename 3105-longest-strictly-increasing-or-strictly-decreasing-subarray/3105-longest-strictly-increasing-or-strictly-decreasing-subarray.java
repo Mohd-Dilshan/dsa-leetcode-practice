@@ -6,7 +6,7 @@ class Solution {
         for(int i = 1; i<nums.length ; i++) {
             if(nums[i] > nums[i-1]) {
                 inc++;
-                dec = 1;;
+                dec = 1;
 
             }
             if(nums[i] < nums[i-1]) {
