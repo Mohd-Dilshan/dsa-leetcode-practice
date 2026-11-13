@@ -180,6 +180,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -292,6 +293,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -349,6 +351,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -402,6 +405,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -458,4 +462,16 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0070-climbing-stairs) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
