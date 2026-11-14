@@ -180,6 +180,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -423,6 +424,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## DP on Trees
 |  |
 | ------- |
@@ -465,6 +467,7 @@ Maintained by me as part of my **DSA learning journey**.
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
