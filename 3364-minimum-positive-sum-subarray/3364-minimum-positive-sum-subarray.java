@@ -1,19 +1,46 @@
+// class Solution {
+//     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
+//         int n = nums.size();
+//         int ans = Integer.MAX_VALUE;
+//         for (int i = 0; i<n; i++) {
+//             int sum = 0;
+//             for(int j = i; j<n; j++ ) {
+//                 sum += nums.get(j);
+//                 int length = j-i+1;
+//                 if(l <= length && length <= r) {
+//                     if(sum>0) {
+//                         ans = Math.min(sum, ans);
+//                     }
+//                 }
+//             }
+//         }
+//         return ans==Integer.MAX_VALUE ? -1 : ans;
+//     }
+// }
+
 class Solution {
     public int minimumSumSubarray(List<Integer> nums, int l, int r) {
         int n = nums.size();
         int ans = Integer.MAX_VALUE;
-        for (int i = 0; i<n; i++) {
+
+        for (int i = 0; i < n; i++) {
             int sum = 0;
-            for(int j = i; j<n; j++ ) {
+
+            for (int j = i; j < n; j++) {
+                int length = j - i + 1;
+
+                if (length > r) {
+                    break;
+                }
+
                 sum += nums.get(j);
-                int length = j-i+1;
-                if(l <= length && length <= r) {
-                    if(sum>0) {
-                        ans = Math.min(sum, ans);
-                    }
+
+                if (length >= l && sum > 0) {
+                    ans = Math.min(ans, sum);
                 }
             }
         }
-        return ans==Integer.MAX_VALUE ? -1 : ans;
+
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
