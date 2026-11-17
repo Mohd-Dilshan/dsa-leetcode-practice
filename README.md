@@ -215,6 +215,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0053-maximum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0070-climbing-stairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
@@ -250,6 +251,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +279,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0832-flipping-an-image](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
