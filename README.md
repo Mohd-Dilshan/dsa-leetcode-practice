@@ -180,6 +180,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1572-matrix-diagonal-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1572-matrix-diagonal-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -197,6 +198,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Enumeration
 |  |
