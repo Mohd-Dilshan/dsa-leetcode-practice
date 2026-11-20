@@ -1,8 +1,13 @@
+// 
+
+//T.C : O(nlogn)
+//S.C : O(n)
 class Solution {
     int n;
-    int[][] memo;
+    int[][] dp;
+
     private int findMethod(int[] nums, int start, int target) {
-        int lo = start, hi = n; 
+        int lo = start, hi = n;
         while (lo < hi) {
             int mid = lo + (hi - lo) / 2;
             if (nums[mid] < target) {
@@ -19,43 +24,36 @@ class Solution {
         return -1;
     }
 
-    private int solve(int i, int inc, int[] nums) {
-
-        if (memo[i][inc] != -1) {
-            return memo[i][inc];
-        }
-
-        int currVal = nums[i] + inc; //inc = 0/1
-        int len = 1;
-
-        //1st Option = find (currVal+1)
-        int j = findMethod(nums, i + 1, currVal + 1);
-        if (j != -1) {
-            len = Math.max(len, 1 + solve(j, 0, nums));
-        }
-
-        //2nd Option = find (currVal) and then inc by +1
-        j = findMethod(nums, i + 1, currVal);
-        if (j != -1) {
-            len = Math.max(len, 1 + solve(j, 1, nums));
-        }
-
-        return memo[i][inc] = len;
-    }
-
     public int maxSelectedElements(int[] nums) {
         n = nums.length;
 
         Arrays.sort(nums);
 
-        memo = new int[n + 1][2];
-        for (int[] row : memo) {
-            Arrays.fill(row, -1);
-        }
+        dp = new int[n + 1][2];
 
         int result = 1;
-        for (int i = 0; i < n; i++) {
-            result = Math.max(result, Math.max(solve(i, 0, nums), solve(i, 1, nums)));
+
+        for (int i = n - 1; i >= 0; i--) { //O(n * log(n))
+            for (int inc = 0; inc <= 1; inc++) {
+
+                int currVal = nums[i] + inc;
+                int len = 1;
+
+                //1st Option = find (currVal+1)
+                int j = findMethod(nums, i + 1, currVal + 1);
+                if (j != -1) {
+                    len = Math.max(len, 1 + dp[j][0]);
+                }
+
+                //2nd Option = find (currVal) and then inc by +1
+                j = findMethod(nums, i + 1, currVal);
+                if (j != -1) {
+                    len = Math.max(len, 1 + dp[j][1]);
+                }
+
+                dp[i][inc] = len;
+                result = Math.max(result, len);
+            }
         }
 
         return result;
