@@ -182,6 +182,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -199,6 +200,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Backtracking
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0070-climbing-stairs](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0070-climbing-stairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
