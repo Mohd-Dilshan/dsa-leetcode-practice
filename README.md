@@ -184,6 +184,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
@@ -259,6 +260,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -330,6 +333,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -391,6 +395,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0543-diameter-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
