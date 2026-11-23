@@ -485,6 +485,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0595-big-countries](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0620-not-boring-movies) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Ordered Set
 |  |
 | ------- |
