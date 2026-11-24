@@ -136,6 +136,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2843-count-symmetric-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
@@ -189,6 +190,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -239,6 +241,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [2843-count-symmetric-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2843-count-symmetric-integers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -498,6 +502,7 @@ Maintained by me as part of my **DSA learning journey**.
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
