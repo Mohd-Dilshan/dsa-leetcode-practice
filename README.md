@@ -131,6 +131,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0342-power-of-four](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0367-valid-perfect-square) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -178,6 +179,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1267-count-servers-that-communicate](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1267-count-servers-that-communicate) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
