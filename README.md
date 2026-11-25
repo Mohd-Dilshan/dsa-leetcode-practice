@@ -170,6 +170,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0169-majority-element](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0744-find-smallest-letter-greater-than-target) |
