@@ -137,6 +137,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2235-add-two-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2235-add-two-integers) |
 | [2843-count-symmetric-integers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2843-count-symmetric-integers) |
+| [3360-stone-removal-game](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -240,6 +241,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0867-transpose-matrix](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0867-transpose-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
