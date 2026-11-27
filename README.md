@@ -198,6 +198,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -233,6 +234,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Simulation
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
