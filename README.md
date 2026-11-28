@@ -199,6 +199,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [3693-climbing-stairs-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3693-climbing-stairs-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +214,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -256,6 +258,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -476,6 +479,7 @@ Maintained by me as part of my **DSA learning journey**.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Mohd-Dilshan/dsa-leetcode-practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Data Stream
 |  |
 | ------- |
